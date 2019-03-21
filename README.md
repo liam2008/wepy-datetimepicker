@@ -14,7 +14,7 @@
 import DateTimePicker from 'wepy-datetimepicker'
 
 export ...
-	data = {
+    data = {
       minutes:30 //初始化30分钟后的时间
     }
     components = {
