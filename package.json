@@ -1,0 +1,23 @@
+{
+  "name": "wepy-datetimepicker",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dateTimePicker.wpy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liam2008/wepy-datetimepicker.git"
+  },
+  "keywords": [
+    "wepy",
+    "dateTimePicker"
+  ],
+  "author": "liam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liam2008/wepy-datetimepicker/issues"
+  },
+  "homepage": "https://github.com/liam2008/wepy-datetimepicker#readme"
+}
